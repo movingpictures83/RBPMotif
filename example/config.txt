@@ -1,0 +1,2 @@
+Prefix plugins/RBPMotif/example/
+Plugin RBPMotif inputfile parameters.rbpmotif.txt outputfile motifs.txt
